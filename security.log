@@ -1,0 +1,4 @@
+{"level":"info","message":"📝 Signup attempt for user: lucy2424@gmail.com"}
+{"level":"info","message":"🔐 Login attempt for user: lucy2424@gmail.com"}
+{"level":"info","message":"📝 Signup attempt for user: <script>alert('XSS')</script>"}
+{"level":"info","message":"🔐 Login attempt for user: admin' OR '1'='1"}
